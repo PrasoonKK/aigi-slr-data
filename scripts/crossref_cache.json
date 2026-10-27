@@ -1,0 +1,1435 @@
+{
+ "R0001": {
+  "doi": "10.22266/ijies2026.0831.22",
+  "titles": [
+   "A Multimodal Vision–language Model for Shrimp Species Classification and AI-generated Image Detection Using CLIP and BERT"
+  ],
+  "volume": "19",
+  "issue": "8",
+  "page": "425-441",
+  "article": null,
+  "year": 2026,
+  "container": "International Journal of Intelligent Engineering and Systems",
+  "type": "journal-article"
+ },
+ "R0002": {
+  "doi": "10.1109/TIP.2026.3709453",
+  "titles": [
+   "PhyTrace: Tracing Physical Inconsistency in AI-Generated Images via ISP Emulation"
+  ],
+  "volume": "35",
+  "issue": null,
+  "page": "8009-8020",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Transactions on Image Processing",
+  "type": "journal-article"
+ },
+ "R0003": {
+  "doi": "10.4108/eetiot.5637",
+  "titles": [
+   "Robust GAN-Based CNN Model as Generative AI Application for Deepfake Detection"
+  ],
+  "volume": "10",
+  "issue": null,
+  "page": null,
+  "article": null,
+  "year": 2024,
+  "container": "EAI Endorsed Transactions on Internet of Things",
+  "type": "journal-article"
+ },
+ "R0004": {
+  "doi": "10.5815/ijigsp.2026.04.02",
+  "titles": [
+   "A Multi-Branch Transformer Based CrossAttention Framework for Computer-GeneratedImage Detection"
+  ],
+  "volume": "18",
+  "issue": "4",
+  "page": "25-47",
+  "article": null,
+  "year": 2026,
+  "container": "International Journal of Image, Graphics and Signal Processing",
+  "type": "journal-article"
+ },
+ "R0005": {
+  "doi": "10.1016/j.icte.2026.05.018",
+  "titles": [
+   "Synthetic Image Detection Based on Multi-Level Feature Fusion and Data Augmentation"
+  ],
+  "volume": null,
+  "issue": null,
+  "page": null,
+  "article": null,
+  "year": 2026,
+  "container": "ICT Express",
+  "type": "journal-article"
+ },
+ "R0006": {
+  "doi": "10.1016/j.neucom.2026.133627",
+  "titles": [
+   "SCA-Det: A structure-context artifact detector for AI-generated image detection"
+  ],
+  "volume": "685",
+  "issue": null,
+  "page": "133627",
+  "article": "133627",
+  "year": 2026,
+  "container": "Neurocomputing",
+  "type": "journal-article"
+ },
+ "R0008": {
+  "doi": "10.1016/j.knosys.2026.116183",
+  "titles": [
+   "MS-DCL: Multi-Scale Decoupled Contrastive Learning for universal AI-generated image detection"
+  ],
+  "volume": "346",
+  "issue": null,
+  "page": "116183",
+  "article": "116183",
+  "year": 2026,
+  "container": "Knowledge-Based Systems",
+  "type": "journal-article"
+ },
+ "R0009": {
+  "doi": "10.1016/j.jisa.2026.104462",
+  "titles": [
+   "FMACNN: Federated multi-attention CNN framework for artificial image detection"
+  ],
+  "volume": "100",
+  "issue": null,
+  "page": "104462",
+  "article": "104462",
+  "year": 2026,
+  "container": "Journal of Information Security and Applications",
+  "type": "journal-article"
+ },
+ "R0010": {
+  "doi": "10.14569/IJACSA.2024.01507133",
+  "titles": [
+   "IPD-Net: Detecting AI-Generated Images via Inter-Patch Dependencies"
+  ],
+  "volume": "15",
+  "issue": "7",
+  "page": null,
+  "article": null,
+  "year": 2024,
+  "container": "International Journal of Advanced Computer Science and Applications",
+  "type": "journal-article"
+ },
+ "R0012": {
+  "doi": "10.1109/TPAMI.2026.3664388",
+  "titles": [
+   "Penny-Wise and Pound-Foolish in AI-Generated Image Detection"
+  ],
+  "volume": "48",
+  "issue": "7",
+  "page": "7707-7719",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "type": "journal-article"
+ },
+ "R0013": {
+  "doi": "10.1109/TMM.2026.3682154",
+  "titles": [
+   "Vulnerabilities in AI-Generated Image Detection: The Challenge of Adversarial Attacks"
+  ],
+  "volume": "28",
+  "issue": null,
+  "page": "8709-8721",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Transactions on Multimedia",
+  "type": "journal-article"
+ },
+ "R0014": {
+  "doi": "10.1016/j.forsciint.2026.112817",
+  "titles": [
+   "A robust synthetic face detector in OSN context based on Gradient of Color features"
+  ],
+  "volume": "380",
+  "issue": null,
+  "page": "112817",
+  "article": "112817",
+  "year": 2026,
+  "container": "Forensic Science International",
+  "type": "journal-article"
+ },
+ "R0016": {
+  "doi": "10.22266/ijies2025.0930.15",
+  "titles": [
+   "Transfer Learning-Driven Hybrid Architecture for Deepfake Detection Using InceptionResNetV2 and Stacked Gated Convolutional Units"
+  ],
+  "volume": "18",
+  "issue": "8",
+  "page": "230-252",
+  "article": null,
+  "year": 2025,
+  "container": "International Journal of Intelligent Engineering and Systems",
+  "type": "journal-article"
+ },
+ "R0017": {
+  "doi": "10.1016/j.patrec.2024.04.018",
+  "titles": [
+   "Generalized and robust model for GAN-generated image detection"
+  ],
+  "volume": "182",
+  "issue": null,
+  "page": "104-110",
+  "article": null,
+  "year": 2024,
+  "container": "Pattern Recognition Letters",
+  "type": "journal-article"
+ },
+ "R0018": {
+  "doi": "10.1109/TCSVT.2026.3656696",
+  "titles": [
+   "DCNet: Learning Similarity and Spatial Complementary Features for Generalized AI-Generated Image Detection"
+  ],
+  "volume": "36",
+  "issue": "6",
+  "page": "8717-8731",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Transactions on Circuits and Systems for Video Technology",
+  "type": "journal-article"
+ },
+ "R0019": {
+  "doi": "10.3389/frsip.2022.918725",
+  "titles": [
+   "An Eyes-Based Siamese Neural Network for the Detection of GAN-Generated Face Images"
+  ],
+  "volume": "2",
+  "issue": null,
+  "page": null,
+  "article": "918725",
+  "year": 2022,
+  "container": "Frontiers in Signal Processing",
+  "type": "journal-article"
+ },
+ "R0020": {
+  "doi": "10.1016/j.eswa.2026.133006",
+  "titles": [
+   "SF-CFNet: Spatial-frequency collaborative fusion detection network for AI-generated satellite images"
+  ],
+  "volume": "330",
+  "issue": null,
+  "page": "133006",
+  "article": "133006",
+  "year": 2026,
+  "container": "Expert Systems with Applications",
+  "type": "journal-article"
+ },
+ "R0023": {
+  "doi": "10.1109/TBIOM.2026.3687469",
+  "titles": [
+   "Cross-Model Deepfake Detection Through Contourlet-Based Inter-Channel Spectral Analysis"
+  ],
+  "volume": "8",
+  "issue": "6",
+  "page": "989-1000",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Transactions on Biometrics, Behavior, and Identity Science",
+  "type": "journal-article"
+ },
+ "R0027": {
+  "doi": "10.3390/computers14060225",
+  "titles": [
+   "Ensemble-Based Biometric Verification: Defending Against Multi-Strategy Deepfake Image Generation"
+  ],
+  "volume": "14",
+  "issue": "6",
+  "page": "225",
+  "article": null,
+  "year": 2025,
+  "container": "Computers",
+  "type": "journal-article"
+ },
+ "R0029": {
+  "doi": "10.1038/s41598-025-28572-8",
+  "titles": [
+   "Detection of AI generated images using combined uncertainty measures and particle swarm optimised rejection mechanism"
+  ],
+  "volume": "15",
+  "issue": "1",
+  "page": null,
+  "article": "44021",
+  "year": 2025,
+  "container": "Scientific Reports",
+  "type": "journal-article"
+ },
+ "R0031": {
+  "doi": "10.1016/j.neunet.2025.108084",
+  "titles": [
+   "Revisiting DIRE: towards universal AI-generated image detection"
+  ],
+  "volume": "193",
+  "issue": null,
+  "page": "108084",
+  "article": "108084",
+  "year": 2026,
+  "container": "Neural Networks",
+  "type": "journal-article"
+ },
+ "R0032": {
+  "doi": "10.1016/j.eswa.2026.132304",
+  "titles": [
+   "SDA-Det: A subpixel-aware dual-domain artifact detector for AI-generated image detection"
+  ],
+  "volume": "322",
+  "issue": null,
+  "page": "132304",
+  "article": "132304",
+  "year": 2026,
+  "container": "Expert Systems with Applications",
+  "type": "journal-article"
+ },
+ "R0034": {
+  "doi": "10.1016/j.knosys.2026.115655",
+  "titles": [
+   "BM-DDFN: Bilinear cross-domain modeling for AIGC image source attribution"
+  ],
+  "volume": "340",
+  "issue": null,
+  "page": "115655",
+  "article": "115655",
+  "year": 2026,
+  "container": "Knowledge-Based Systems",
+  "type": "journal-article"
+ },
+ "R0035": {
+  "doi": "10.1016/j.patrec.2024.03.002",
+  "titles": [
+   "A siamese-based verification system for open-set architecture attribution of synthetic images"
+  ],
+  "volume": "180",
+  "issue": null,
+  "page": "75-81",
+  "article": null,
+  "year": 2024,
+  "container": "Pattern Recognition Letters",
+  "type": "journal-article"
+ },
+ "R0037": {
+  "doi": "10.7717/peerj-cs.2127",
+  "titles": [
+   "Detecting images generated by diffusers"
+  ],
+  "volume": "10",
+  "issue": null,
+  "page": "e2127",
+  "article": "e2127",
+  "year": 2024,
+  "container": "PeerJ Computer Science",
+  "type": "journal-article"
+ },
+ "R0039": {
+  "doi": "10.1109/ACCESS.2024.3470128",
+  "titles": [
+   "Boosting Deep Feature Fusion-Based Detection Model for Fake Faces Generated by Generative Adversarial Networks for Consumer Space Environment"
+  ],
+  "volume": "12",
+  "issue": null,
+  "page": "147680-147693",
+  "article": null,
+  "year": 2024,
+  "container": "IEEE Access",
+  "type": "journal-article"
+ },
+ "R0040": {
+  "doi": "10.3390/electronics15030716",
+  "titles": [
+   "Transformer Based on Multi-Domain Feature Fusion for AI-Generated Image Detection"
+  ],
+  "volume": "15",
+  "issue": "3",
+  "page": "716",
+  "article": null,
+  "year": 2026,
+  "container": "Electronics",
+  "type": "journal-article"
+ },
+ "R0041": {
+  "doi": "10.1109/OJSP.2026.3684389",
+  "titles": [
+   "VeriTrace: A Multitask Disaster Dataset for Real–Fake Verification and Source Tracing"
+  ],
+  "volume": "7",
+  "issue": null,
+  "page": "438-446",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Open Journal of Signal Processing",
+  "type": "journal-article"
+ },
+ "R0045": {
+  "doi": "10.1016/j.fsidi.2026.302064",
+  "titles": [
+   "Boon or Bane: Source Camera Identification meets AI-generated images"
+  ],
+  "volume": "56",
+  "issue": null,
+  "page": "302064",
+  "article": "302064",
+  "year": 2026,
+  "container": "Forensic Science International: Digital Investigation",
+  "type": "journal-article"
+ },
+ "R0046": {
+  "doi": "10.1109/OJCS.2025.3575507",
+  "titles": [
+   "DiffCoR: Exposing AI-Generated Image by Using Stable Diffusion Model Based on Consistent Representation Learning"
+  ],
+  "volume": "6",
+  "issue": null,
+  "page": "1353-1365",
+  "article": null,
+  "year": 2025,
+  "container": "IEEE Open Journal of the Computer Society",
+  "type": "journal-article"
+ },
+ "R0047": {
+  "doi": "10.1016/j.cviu.2024.104078",
+  "titles": [
+   "Artifact feature purification for cross-domain detection of AI-generated images"
+  ],
+  "volume": "247",
+  "issue": null,
+  "page": "104078",
+  "article": "104078",
+  "year": 2024,
+  "container": "Computer Vision and Image Understanding",
+  "type": "journal-article"
+ },
+ "R0051": {
+  "doi": "10.3390/jimaging7030050",
+  "titles": [
+   "VIPPrint: Validating Synthetic Image Detection and Source Linking Methods on a Large Scale Dataset of Printed Documents"
+  ],
+  "volume": "7",
+  "issue": "3",
+  "page": "50",
+  "article": null,
+  "year": 2021,
+  "container": "Journal of Imaging",
+  "type": "journal-article"
+ },
+ "R0052": {
+  "doi": "10.1109/TIFS.2025.3592531",
+  "titles": [
+   "BOSC: A Backdoor-Based Framework for Open Set Synthetic Image Attribution"
+  ],
+  "volume": "20",
+  "issue": null,
+  "page": "8043-8058",
+  "article": null,
+  "year": 2025,
+  "container": "IEEE Transactions on Information Forensics and Security",
+  "type": "journal-article"
+ },
+ "R0053": {
+  "doi": "10.1109/ACCESS.2024.3522759",
+  "titles": [
+   "Advanced Detection of AI-Generated Images Through Vision Transformers"
+  ],
+  "volume": "13",
+  "issue": null,
+  "page": "3644-3652",
+  "article": null,
+  "year": 2025,
+  "container": "IEEE Access",
+  "type": "journal-article"
+ },
+ "R0055": {
+  "doi": "10.3390/electronics15040891",
+  "titles": [
+   "SIDWA: Synthetic Image Detection Based on Discrete Wavelet Transform Stem and Deformable Sliding Window Cross-Attention"
+  ],
+  "volume": "15",
+  "issue": "4",
+  "page": "891",
+  "article": null,
+  "year": 2026,
+  "container": "Electronics",
+  "type": "journal-article"
+ },
+ "R0056": {
+  "doi": "10.1109/LSP.2026.3678476",
+  "titles": [
+   "Background-Noise-Driven Detection of Diffusion-Generated Images"
+  ],
+  "volume": "33",
+  "issue": null,
+  "page": "1671-1675",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Signal Processing Letters",
+  "type": "journal-article"
+ },
+ "R0058": {
+  "doi": "10.1109/TIFS.2026.3676657",
+  "titles": [
+   "CLIP-ADA: CLIP-Guided Artifact-Invariant Generalizable Synthetic Image Detection"
+  ],
+  "volume": "21",
+  "issue": null,
+  "page": "3588-3601",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Transactions on Information Forensics and Security",
+  "type": "journal-article"
+ },
+ "R0062": {
+  "doi": "10.1109/ACCESS.2024.3382196",
+  "titles": [
+   "Enhancing Deepfake Detection With Diversified Self-Blending Images and Residuals"
+  ],
+  "volume": "12",
+  "issue": null,
+  "page": "46109-46117",
+  "article": null,
+  "year": 2024,
+  "container": "IEEE Access",
+  "type": "journal-article"
+ },
+ "R0063": {
+  "doi": "10.1007/s10791-026-10116-x",
+  "titles": [
+   "A hybrid transfer learning approach for multi-class classification of medical deepfakes generated by GAN and diffusion models"
+  ],
+  "volume": "29",
+  "issue": "1",
+  "page": null,
+  "article": "225",
+  "year": 2026,
+  "container": "Discover Computing",
+  "type": "journal-article"
+ },
+ "R0064": {
+  "doi": "10.3389/frai.2025.1663292",
+  "titles": [
+   "Multi-modal texture fusion network for detecting AI-generated images"
+  ],
+  "volume": "8",
+  "issue": null,
+  "page": null,
+  "article": "1663292",
+  "year": 2025,
+  "container": "Frontiers in Artificial Intelligence",
+  "type": "journal-article"
+ },
+ "R0065": {
+  "doi": "10.24425/ijet.2026.157932",
+  "titles": [
+   "AI-generated image detection using Machine Learning techniques"
+  ],
+  "volume": "72",
+  "issue": "2",
+  "page": "1-7",
+  "article": null,
+  "year": 2026,
+  "container": "International Journal of Electronics and Telecommunications",
+  "type": "journal-article"
+ },
+ "R0066": {
+  "doi": "10.31449/inf.v49i16.7979",
+  "titles": [
+   "Vision Transformer-Based Framework for AI-Generated Image Detection in Interior Design"
+  ],
+  "volume": "49",
+  "issue": "16",
+  "page": null,
+  "article": null,
+  "year": 2025,
+  "container": "Informatica",
+  "type": "journal-article"
+ },
+ "R0067": {
+  "doi": "10.1007/s10791-025-09890-x",
+  "titles": [
+   "An enhanced deep learning framework for DeepFake detection using EfficientNet-B3 comparative evaluation of deep and machine learning techniques"
+  ],
+  "volume": "29",
+  "issue": "1",
+  "page": null,
+  "article": "18",
+  "year": 2026,
+  "container": "Discover Computing",
+  "type": "journal-article"
+ },
+ "R0069": {
+  "doi": "10.1109/ACCESS.2025.3597641",
+  "titles": [
+   "Sanitizing Diffusion-Generated Images via Fingerprint Removal and Adversarial Perturbation for Forensic Evasion"
+  ],
+  "volume": "13",
+  "issue": null,
+  "page": "156843-156854",
+  "article": null,
+  "year": 2025,
+  "container": "IEEE Access",
+  "type": "journal-article"
+ },
+ "R0070": {
+  "doi": "10.3390/a17090375",
+  "titles": [
+   "Synthetic Face Discrimination via Learned Image Compression"
+  ],
+  "volume": "17",
+  "issue": "9",
+  "page": "375",
+  "article": null,
+  "year": 2024,
+  "container": "Algorithms",
+  "type": "journal-article"
+ },
+ "R0071": {
+  "doi": "10.1016/j.patrec.2024.02.017",
+  "titles": [
+   "Less is more: A minimalist approach to robust GAN-generated face detection"
+  ],
+  "volume": "179",
+  "issue": null,
+  "page": "185-191",
+  "article": null,
+  "year": 2024,
+  "container": "Pattern Recognition Letters",
+  "type": "journal-article"
+ },
+ "R0072": {
+  "doi": "10.1016/j.neucom.2026.134418",
+  "titles": [
+   "Geometric-semantic dual-adaptation for generalizable AI-generated image detection"
+  ],
+  "volume": "700",
+  "issue": null,
+  "page": "134418",
+  "article": "134418",
+  "year": 2026,
+  "container": "Neurocomputing",
+  "type": "journal-article"
+ },
+ "R0073": {
+  "doi": "10.1155/int/8530953",
+  "titles": [
+   "Building a Universal Detector of AI‐Generated Images Without Training on Them"
+  ],
+  "volume": "2025",
+  "issue": "1",
+  "page": null,
+  "article": "8530953",
+  "year": 2025,
+  "container": "International Journal of Intelligent Systems",
+  "type": "journal-article"
+ },
+ "R0076": {
+  "doi": "10.11834/jig.250167",
+  "titles": [
+   "面向AI生成图像持续检测基准数据集与框架研究",
+   "Benchmark dataset and framework for continual AI-generated image detection"
+  ],
+  "volume": "30",
+  "issue": "11",
+  "page": "3438-3450",
+  "article": null,
+  "year": 2025,
+  "container": "Journal of Image and Graphics",
+  "type": "journal-article"
+ },
+ "R0077": {
+  "doi": "10.1016/j.neucom.2025.130351",
+  "titles": [
+   "MFF-Net: A multi-view feature fusion network for generalized forgery image detection"
+  ],
+  "volume": "640",
+  "issue": null,
+  "page": "130351",
+  "article": "130351",
+  "year": 2025,
+  "container": "Neurocomputing",
+  "type": "journal-article"
+ },
+ "R0078": {
+  "doi": "10.31577/cai_2022_6_1541",
+  "titles": [
+   "Exposing AI Generated Deepfake Images Using Siamese Network with Triplet Loss"
+  ],
+  "volume": "41",
+  "issue": "6",
+  "page": "1541-1562",
+  "article": null,
+  "year": 2022,
+  "container": "Computing and Informatics",
+  "type": "journal-article"
+ },
+ "R0080": {
+  "doi": "10.1016/j.patcog.2026.113813",
+  "titles": [
+   "Structure searchable network model for deepfake image detection"
+  ],
+  "volume": "179",
+  "issue": null,
+  "page": "113813",
+  "article": "113813",
+  "year": 2026,
+  "container": "Pattern Recognition",
+  "type": "journal-article"
+ },
+ "R0081": {
+  "doi": "10.1109/ACCESS.2024.3393842",
+  "titles": [
+   "MMGANGuard: A Robust Approach for Detecting Fake Images Generated by GANs Using Multi-Model Techniques"
+  ],
+  "volume": "12",
+  "issue": null,
+  "page": "104153-104164",
+  "article": null,
+  "year": 2024,
+  "container": "IEEE Access",
+  "type": "journal-article"
+ },
+ "R0082": {
+  "doi": "10.1145/3796544",
+  "titles": [
+   "Bias-Free? An Empirical Study on Ethnicity, Gender, and Age Fairness in Deepfake Detection"
+  ],
+  "volume": "58",
+  "issue": "10",
+  "page": "1-29",
+  "article": null,
+  "year": 2026,
+  "container": "ACM Computing Surveys",
+  "type": "journal-article"
+ },
+ "R0083": {
+  "doi": "10.1109/LSP.2026.3710437",
+  "titles": [
+   "DTBF: Combining Local Statistical Artifacts and Concept Alignment for Synthetic Image Detection"
+  ],
+  "volume": "33",
+  "issue": null,
+  "page": "2834-2838",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Signal Processing Letters",
+  "type": "journal-article"
+ },
+ "R0085": {
+  "doi": "10.1109/ACCESS.2024.3394250",
+  "titles": [
+   "Performance Comparison and Visualization of AI-Generated-Image Detection Methods"
+  ],
+  "volume": "12",
+  "issue": null,
+  "page": "62609-62627",
+  "article": null,
+  "year": 2024,
+  "container": "IEEE Access",
+  "type": "journal-article"
+ },
+ "R0086": {
+  "doi": "10.1016/j.patcog.2026.113395",
+  "titles": [
+   "Linguistic profiling of deepfakes: An open database for next-Generation deepfake detection"
+  ],
+  "volume": "178",
+  "issue": null,
+  "page": "113395",
+  "article": "113395",
+  "year": 2026,
+  "container": "Pattern Recognition",
+  "type": "journal-article"
+ },
+ "R0089": {
+  "doi": "10.18280/isi.301017",
+  "titles": [
+   "Fusing Frequency and Spatial Transformers for Robust Detection of AI-Generated Images"
+  ],
+  "volume": "30",
+  "issue": "10",
+  "page": "2719-2725",
+  "article": null,
+  "year": 2025,
+  "container": "Ingénierie des systèmes d information",
+  "type": "journal-article"
+ },
+ "R0090": {
+  "doi": "10.1109/TCSVT.2026.3683200",
+  "titles": [
+   "LiteUpdate: A Lightweight Framework for Updating AI-Generated Image Detectors"
+  ],
+  "volume": "36",
+  "issue": "8",
+  "page": "11788-11801",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Transactions on Circuits and Systems for Video Technology",
+  "type": "journal-article"
+ },
+ "R0091": {
+  "doi": "10.1109/TMM.2026.3651067",
+  "titles": [
+   "Generalizable and Adaptive Continual Learning Framework for AI-Generated Image Detection"
+  ],
+  "volume": "28",
+  "issue": null,
+  "page": "2693-2704",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Transactions on Multimedia",
+  "type": "journal-article"
+ },
+ "R0095": {
+  "doi": "10.3390/electronics14040665",
+  "titles": [
+   "DeepGuard: Identification and Attribution of AI-Generated Synthetic Images"
+  ],
+  "volume": "14",
+  "issue": "4",
+  "page": "665",
+  "article": null,
+  "year": 2025,
+  "container": "Electronics",
+  "type": "journal-article"
+ },
+ "R0096": {
+  "doi": "10.1016/j.neucom.2025.132482",
+  "titles": [
+   "Harnessing attention for cropping and fusion in CLIP-based AIGC detection"
+  ],
+  "volume": "669",
+  "issue": null,
+  "page": "132482",
+  "article": "132482",
+  "year": 2026,
+  "container": "Neurocomputing",
+  "type": "journal-article"
+ },
+ "R0097": {
+  "doi": "10.1016/j.neunet.2026.109130",
+  "titles": [
+   "NSFF: Noise and semantic features fusion for AI-generated image detection"
+  ],
+  "volume": "203",
+  "issue": null,
+  "page": "109130",
+  "article": "109130",
+  "year": 2026,
+  "container": "Neural Networks",
+  "type": "journal-article"
+ },
+ "R0098": {
+  "doi": "10.3390/mca31010031",
+  "titles": [
+   "A Transfer-Learning Approach for Detection of Multiclass Synthetic Skin Cancer Images Generated by Deep Generative Models to Prevent Medical Insurance Fraud"
+  ],
+  "volume": "31",
+  "issue": "1",
+  "page": "31",
+  "article": null,
+  "year": 2026,
+  "container": "Mathematical and Computational Applications",
+  "type": "journal-article"
+ },
+ "R0099": {
+  "doi": "10.29121/shodhkosh.v6.i4s.2025.6949",
+  "titles": [
+   "PHOTO AUTHENTICITY DETECTION USING MACHINE LEARNING FOR DEEPFAKE AND AI-GENERATED CONTENT VERIFICATION"
+  ],
+  "volume": "6",
+  "issue": "4s",
+  "page": null,
+  "article": null,
+  "year": 2025,
+  "container": "ShodhKosh: Journal of Visual and Performing Arts",
+  "type": "journal-article"
+ },
+ "R0101": {
+  "doi": "10.1016/j.engappai.2023.106594",
+  "titles": [
+   "Black-box attack against GAN-generated image detector with contrastive perturbation"
+  ],
+  "volume": "124",
+  "issue": null,
+  "page": "106594",
+  "article": "106594",
+  "year": 2023,
+  "container": "Engineering Applications of Artificial Intelligence",
+  "type": "journal-article"
+ },
+ "R0104": {
+  "doi": "10.1371/journal.pone.0350655",
+  "titles": [
+   "ADRD: Detecting diffusion-generated images via adversarial perturbation induced reconstruction discrepancy"
+  ],
+  "volume": "21",
+  "issue": "7",
+  "page": "e0350655",
+  "article": null,
+  "year": 2026,
+  "container": "PLOS One",
+  "type": "journal-article"
+ },
+ "R0105": {
+  "doi": "10.3390/bdcc8090119",
+  "titles": [
+   "Hierarchical Progressive Image Forgery Detection and Localization Method Based on UNet"
+  ],
+  "volume": "8",
+  "issue": "9",
+  "page": "119",
+  "article": null,
+  "year": 2024,
+  "container": "Big Data and Cognitive Computing",
+  "type": "journal-article"
+ },
+ "R0106": {
+  "doi": "10.1371/journal.pone.0336328",
+  "titles": [
+   "SCADET: A detection framework for AI-generated artwork integrating dynamic frequency attention and contrastive spectral analysis"
+  ],
+  "volume": "20",
+  "issue": "11",
+  "page": "e0336328",
+  "article": null,
+  "year": 2025,
+  "container": "PLOS One",
+  "type": "journal-article"
+ },
+ "R0108": {
+  "doi": "10.3390/jimaging9100199",
+  "titles": [
+   "AI vs. AI: Can AI Detect AI-Generated Images?"
+  ],
+  "volume": "9",
+  "issue": "10",
+  "page": "199",
+  "article": null,
+  "year": 2023,
+  "container": "Journal of Imaging",
+  "type": "journal-article"
+ },
+ "R0109": {
+  "doi": "10.1016/j.eswa.2025.130500",
+  "titles": [
+   "Lightweight AI-Generated image detection based on enhanced common artifact features"
+  ],
+  "volume": "301",
+  "issue": null,
+  "page": "130500",
+  "article": "130500",
+  "year": 2026,
+  "container": "Expert Systems with Applications",
+  "type": "journal-article"
+ },
+ "R0113": {
+  "doi": "10.1016/j.dsp.2025.105840",
+  "titles": [
+   "Dual-path AI-generated image detection: Leveraging texture-rich and texture-poor patches with global semantic features"
+  ],
+  "volume": "171",
+  "issue": null,
+  "page": "105840",
+  "article": "105840",
+  "year": 2026,
+  "container": "Digital Signal Processing",
+  "type": "journal-article"
+ },
+ "R0114": {
+  "doi": "10.3390/jimaging10050110",
+  "titles": [
+   "Reliable Out-of-Distribution Recognition of Synthetic Images"
+  ],
+  "volume": "10",
+  "issue": "5",
+  "page": "110",
+  "article": null,
+  "year": 2024,
+  "container": "Journal of Imaging",
+  "type": "journal-article"
+ },
+ "R0115": {
+  "doi": "10.1109/TCSVT.2024.3383833",
+  "titles": [
+   "Unsupervised Generative Fake Image Detector"
+  ],
+  "volume": "34",
+  "issue": "9",
+  "page": "8442-8455",
+  "article": null,
+  "year": 2024,
+  "container": "IEEE Transactions on Circuits and Systems for Video Technology",
+  "type": "journal-article"
+ },
+ "R0118": {
+  "doi": "10.1109/LSP.2026.3714736",
+  "titles": [
+   "Beyond Causal Models: Multi-Scale Linear Local Attention for AI-Generated Image Detection"
+  ],
+  "volume": "33",
+  "issue": null,
+  "page": "3068-3072",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Signal Processing Letters",
+  "type": "journal-article"
+ },
+ "R0120": {
+  "doi": "10.3390/app152312664",
+  "titles": [
+   "Forensic Analysis of Manipulated Images and Videos"
+  ],
+  "volume": "15",
+  "issue": "23",
+  "page": "12664",
+  "article": null,
+  "year": 2025,
+  "container": "Applied Sciences",
+  "type": "journal-article"
+ },
+ "R0121": {
+  "doi": "10.3390/app16010533",
+  "titles": [
+   "Multi-Domain Perception Transformer for Generalized Forgery Image Detection"
+  ],
+  "volume": "16",
+  "issue": "1",
+  "page": "533",
+  "article": null,
+  "year": 2026,
+  "container": "Applied Sciences",
+  "type": "journal-article"
+ },
+ "R0122": {
+  "doi": "10.3390/app15137421",
+  "titles": [
+   "Detecting AI-Generated Images Using a Hybrid ResNet-SE Attention Model"
+  ],
+  "volume": "15",
+  "issue": "13",
+  "page": "7421",
+  "article": null,
+  "year": 2025,
+  "container": "Applied Sciences",
+  "type": "journal-article"
+ },
+ "R0126": {
+  "doi": "10.1109/OJSP.2023.3337714",
+  "titles": [
+   "Synthbuster: Towards Detection of Diffusion Model Generated Images"
+  ],
+  "volume": "5",
+  "issue": null,
+  "page": "1-9",
+  "article": null,
+  "year": 2024,
+  "container": "IEEE Open Journal of Signal Processing",
+  "type": "journal-article"
+ },
+ "R0128": {
+  "doi": "10.1016/j.knosys.2025.113806",
+  "titles": [
+   "GCS-Net: A universal AI-generated visual content detection method based on CLIP"
+  ],
+  "volume": "323",
+  "issue": null,
+  "page": "113806",
+  "article": "113806",
+  "year": 2025,
+  "container": "Knowledge-Based Systems",
+  "type": "journal-article"
+ },
+ "R0131": {
+  "doi": "10.1007/s42452-025-07690-y",
+  "titles": [
+   "Enhancing deepfake detection with Adaptive-DCGAN and Lite-CNN: a novel approach to image classification"
+  ],
+  "volume": "7",
+  "issue": "11",
+  "page": null,
+  "article": "1229",
+  "year": 2025,
+  "container": "Discover Applied Sciences",
+  "type": "journal-article"
+ },
+ "R0133": {
+  "doi": "10.1016/j.cviu.2026.104871",
+  "titles": [
+   "EXACT: An Explainable Adaptive SemantiC-Trace framework for AI-generated image forensics"
+  ],
+  "volume": "271",
+  "issue": null,
+  "page": "104871",
+  "article": "104871",
+  "year": 2026,
+  "container": "Computer Vision and Image Understanding",
+  "type": "journal-article"
+ },
+ "R0135": {
+  "doi": "10.1049/ipr2.70425",
+  "titles": [
+   "Diffusion‐Generated Image Detection via Targeted Mask‐Based Knowledge Distillation"
+  ],
+  "volume": "20",
+  "issue": "1",
+  "page": null,
+  "article": "e70425",
+  "year": 2026,
+  "container": "IET Image Processing",
+  "type": "journal-article"
+ },
+ "R0136": {
+  "doi": "10.1587/nolta.17.1015",
+  "titles": [
+   "Integrating semantic structure and texture cues for detecting landscape images generated by stable diffusion-based models"
+  ],
+  "volume": "17",
+  "issue": "3",
+  "page": "1015-1028",
+  "article": null,
+  "year": 2026,
+  "container": "Nonlinear Theory and Its Applications, IEICE",
+  "type": "journal-article"
+ },
+ "R0144": {
+  "doi": "10.1109/TAI.2025.3641104",
+  "titles": [
+   "Generalizable Synthetic Image Detection via Language-Guided Contrastive Learning"
+  ],
+  "volume": "7",
+  "issue": "6",
+  "page": "3485-3496",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Transactions on Artificial Intelligence",
+  "type": "journal-article"
+ },
+ "R0147": {
+  "doi": "10.1016/j.patrec.2026.04.022",
+  "titles": [
+   "Spatial flatness-curvature mask driven generalized detection of synthetic images"
+  ],
+  "volume": "205",
+  "issue": null,
+  "page": "100-108",
+  "article": null,
+  "year": 2026,
+  "container": "Pattern Recognition Letters",
+  "type": "journal-article"
+ },
+ "R0148": {
+  "doi": "10.3390/s26082389",
+  "titles": [
+   "DIFC-Net: Diffusion-Intrinsic Feature Capture for AI-Generated Image Detection"
+  ],
+  "volume": "26",
+  "issue": "8",
+  "page": "2389",
+  "article": null,
+  "year": 2026,
+  "container": "Sensors",
+  "type": "journal-article"
+ },
+ "R0152": {
+  "doi": "10.3390/app15126429",
+  "titles": [
+   "Novel Deepfake Image Detection with PV-ISM: Patch-Based Vision Transformer for Identifying Synthetic Media"
+  ],
+  "volume": "15",
+  "issue": "12",
+  "page": "6429",
+  "article": null,
+  "year": 2025,
+  "container": "Applied Sciences",
+  "type": "journal-article"
+ },
+ "R0154": {
+  "doi": "10.3390/technologies13070280",
+  "titles": [
+   "RADAR: Reasoning AI-Generated Image Detection for Semantic Fakes"
+  ],
+  "volume": "13",
+  "issue": "7",
+  "page": "280",
+  "article": null,
+  "year": 2025,
+  "container": "Technologies",
+  "type": "journal-article"
+ },
+ "R0155": {
+  "doi": "10.1109/ACCESS.2026.3665315",
+  "titles": [
+   "Color Space Analysis for AI-Generated Image Detection on CIFAKE: CNN Models and Statistical Evaluation"
+  ],
+  "volume": "14",
+  "issue": null,
+  "page": "30747-30757",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Access",
+  "type": "journal-article"
+ },
+ "R0228": {
+  "doi": "10.1016/j.cviu.2026.104848",
+  "titles": [
+   "Proto-LeakNet: Towards signal-leak aware attribution in synthetic human face imagery"
+  ],
+  "volume": "270",
+  "issue": null,
+  "page": "104848",
+  "article": "104848",
+  "year": 2026,
+  "container": "Computer Vision and Image Understanding",
+  "type": "journal-article"
+ },
+ "R0242": {
+  "doi": "10.1016/j.cviu.2026.104826",
+  "titles": [
+   "The PRISM benchmark: PhotoRealistic Image Synthesis and Manipulation to detect generated images"
+  ],
+  "volume": "270",
+  "issue": null,
+  "page": "104826",
+  "article": "104826",
+  "year": 2026,
+  "container": "Computer Vision and Image Understanding",
+  "type": "journal-article"
+ },
+ "R0259": {
+  "doi": "10.1561/116.20240090",
+  "titles": [
+   "How Much is the Source Mismatch an Important Problem for Deepfake Detection?"
+  ],
+  "volume": "14",
+  "issue": "3",
+  "page": "1-33",
+  "article": null,
+  "year": 2025,
+  "container": "APSIPA Transactions on Signal and Information Processing",
+  "type": "journal-article"
+ },
+ "R0275": {
+  "doi": "10.1155/2022/9278715",
+  "titles": [
+   "FD2Foremer: Thinking Face Forgery Detection in Midfrequency Geometry Details"
+  ],
+  "volume": "2022",
+  "issue": null,
+  "page": "1-15",
+  "article": null,
+  "year": 2022,
+  "container": "Security and Communication Networks",
+  "type": "journal-article"
+ },
+ "R0302": {
+  "doi": "10.1109/TIP.2026.3673967",
+  "titles": [
+   "Toward Generalizable Forgery Detection and Reasoning"
+  ],
+  "volume": "35",
+  "issue": null,
+  "page": "3395-3410",
+  "article": null,
+  "year": 2026,
+  "container": "IEEE Transactions on Image Processing",
+  "type": "journal-article"
+ },
+ "R0309": {
+  "doi": "10.1016/j.heliyon.2024.e37163",
+  "titles": [
+   "Detection of real-time deep fakes and face forgery in video conferencing employing generative adversarial networks"
+  ],
+  "volume": "10",
+  "issue": "17",
+  "page": "e37163",
+  "article": "e37163",
+  "year": 2024,
+  "container": "Heliyon",
+  "type": "journal-article"
+ },
+ "R0321": {
+  "doi": "10.1007/s11042-025-21060-1",
+  "titles": [
+   "DeepFeatureX-SN: Generalization of deepfake detection via contrastive learning"
+  ],
+  "volume": "84",
+  "issue": "39",
+  "page": "47721-47740",
+  "article": null,
+  "year": 2025,
+  "container": "Multimedia Tools and Applications",
+  "type": "journal-article"
+ },
+ "R0325": {
+  "doi": "10.1016/j.knosys.2025.114681",
+  "titles": [
+   "DeepfakeCLIP: Semantic-Opposite prompt learning for generalizable deepfake detection"
+  ],
+  "volume": "330",
+  "issue": null,
+  "page": "114681",
+  "article": "114681",
+  "year": 2025,
+  "container": "Knowledge-Based Systems",
+  "type": "journal-article"
+ },
+ "R0345": {
+  "doi": "10.1016/j.inffus.2023.01.022",
+  "titles": [
+   "Parameter agnostic stacked wavelet transformer for detecting singularities"
+  ],
+  "volume": "95",
+  "issue": null,
+  "page": "415-425",
+  "article": null,
+  "year": 2023,
+  "container": "Information Fusion",
+  "type": "journal-article"
+ },
+ "R0030": {
+  "doi": "10.1007/s11042-026-21735-3",
+  "titles": [
+   "Exposing GANfakes: a systematic review of cutting-edge detection and localization techniques"
+  ],
+  "volume": "85",
+  "issue": "7",
+  "page": null,
+  "article": "574",
+  "year": 2026,
+  "container": "Multimedia Tools and Applications",
+  "type": "journal-article"
+ },
+ "R0033": {
+  "doi": "10.1561/116.00000142",
+  "titles": [
+   "An Overview on the Generation and Detection of Synthetic and Manipulated Satellite Images"
+  ],
+  "volume": "11",
+  "issue": "1",
+  "page": "1-56",
+  "article": null,
+  "year": 2022,
+  "container": "APSIPA Transactions on Signal and Information Processing",
+  "type": "journal-article"
+ },
+ "R0169": {
+  "doi": "10.11834/jig.250656",
+  "titles": [
+   "大模型时代的视频与图像安全研究进展",
+   "Advances in video and image security research in the era of large models"
+  ],
+  "volume": "31",
+  "issue": "6",
+  "page": "2222-2259",
+  "article": null,
+  "year": 2026,
+  "container": "Journal of Image and Graphics",
+  "type": "journal-article"
+ },
+ "R0357": {
+  "doi": "10.9781/ijimai.2024.11.003",
+  "titles": [
+   "Advances in AI-Generated Images and Videos."
+  ],
+  "volume": "9",
+  "issue": "1",
+  "page": "173-208",
+  "article": null,
+  "year": 2024,
+  "container": "International Journal of Interactive Multimedia and Artificial Intelligence",
+  "type": "journal-article"
+ },
+ "page2021prisma": {
+  "doi": "10.1136/bmj.n71",
+  "titles": [
+   "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews"
+  ],
+  "volume": null,
+  "issue": null,
+  "page": "n71",
+  "article": null,
+  "year": 2021,
+  "container": "BMJ",
+  "type": "journal-article"
+ },
+ "verdoliva2020": {
+  "doi": "10.1109/JSTSP.2020.3002101",
+  "titles": [
+   "Media Forensics and DeepFakes: An Overview"
+  ],
+  "volume": "14",
+  "issue": "5",
+  "page": "910-932",
+  "article": null,
+  "year": 2020,
+  "container": "IEEE Journal of Selected Topics in Signal Processing",
+  "type": "journal-article"
+ },
+ "mirsky2021": {
+  "doi": "10.1145/3425780",
+  "titles": [
+   "The Creation and Detection of Deepfakes"
+  ],
+  "volume": "54",
+  "issue": "1",
+  "page": "1-41",
+  "article": null,
+  "year": 2021,
+  "container": "ACM Computing Surveys",
+  "type": "journal-article"
+ },
+ "tolosana2020": {
+  "doi": "10.1016/j.inffus.2020.06.014",
+  "titles": [
+   "Deepfakes and beyond: A Survey of face manipulation and fake detection"
+  ],
+  "volume": "64",
+  "issue": null,
+  "page": "131-148",
+  "article": null,
+  "year": 2020,
+  "container": "Information Fusion",
+  "type": "journal-article"
+ },
+ "mahara2026": {
+  "doi": "10.1016/j.cosrev.2026.100908",
+  "titles": [
+   "Methods and trends in detecting AI-generated images: A comprehensive review"
+  ],
+  "volume": "60",
+  "issue": null,
+  "page": "100908",
+  "article": "100908",
+  "year": 2026,
+  "container": "Computer Science Review",
+  "type": "journal-article"
+ },
+ "li2026survey": {
+  "doi": "10.11834/jig.250053",
+  "titles": [
+   "人工智能生成图像检测技术综述",
+   "Survey on artificial intelligence-generated image detection"
+  ],
+  "volume": "31",
+  "issue": "1",
+  "page": "13-44",
+  "article": null,
+  "year": 2026,
+  "container": "Journal of Image and Graphics",
+  "type": "journal-article"
+ },
+ "geirhos2020": {
+  "doi": "10.1038/s42256-020-00257-z",
+  "titles": [
+   "Shortcut learning in deep neural networks"
+  ],
+  "volume": "2",
+  "issue": "11",
+  "page": "665-673",
+  "article": null,
+  "year": 2020,
+  "container": "Nature Machine Intelligence",
+  "type": "journal-article"
+ }
+}

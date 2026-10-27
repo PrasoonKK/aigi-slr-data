@@ -1,0 +1,1 @@
+TITLE-ABS-KEY( ( "AI-generated image*" OR "AI generated image*" OR "synthetic image*" OR "machine-generated image*" OR "generative AI image*" ) AND ( "image detection" OR "synthetic image detection" OR "AI-generated image detection" OR "image forensic*" OR "digital forensic*" OR "image authenticat*" OR "fake image detection" ) )

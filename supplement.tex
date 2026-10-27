@@ -1,0 +1,38 @@
+%% Supplementary material for "Towards Universal AI-Generated Image Detection".
+%% All rows are generated from the workbook by scripts/gen_from_workbook.py
+%% (generated/*.tex); do not edit by hand.
+\documentclass[9pt]{article}
+\usepackage[landscape,margin=1.5cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{longtable,booktabs,array,pifont,xspace}
+\usepackage[hidelinks]{hyperref}
+\usepackage{cite}
+\usepackage{verbatim}
+\newcommand{\cmark}{\ding{51}}
+\xspaceaddexceptions{\%}
+\input{generated/stats}
+\renewcommand{\thetable}{S\arabic{table}}
+\renewcommand{\thesection}{S\arabic{section}}
+\title{Supplementary Material for\\``Towards Universal AI-Generated Image Detection: A Systematic Literature Review of Methods, Generalization, Robustness, and Open Challenges''}
+\author{Prasoon Kumar Kashyap and Aryan Jha}
+\date{}
+\begin{document}
+\maketitle
+\noindent This supplement accompanies the main paper. It lists the study-level coding of all \N included studies (Table~S1), every transcribed performance value (Table~S2), the reports excluded at full text (Table~S3), the reports that could not be retrieved (Table~S4) and the full Scopus search strings (Section~S4). Study identifiers (R0001 to R0357) are the workbook Record\_IDs.
+
+\input{supplement_tables}
+
+\section{Scopus Search Strings}
+The two searches were run on Scopus on 13 August 2026 (title, abstract and keywords; articles in English, 2020--2026; no subject-area restriction).
+
+\noindent\textbf{S01 (primary):}
+{\footnotesize\verbatiminput{generated/search_S01.txt}}
+
+\noindent\textbf{S02 (generalization-focused):}
+{\footnotesize\verbatiminput{generated/search_S02.txt}}
+
+
+\bibliographystyle{ieeetr}
+\bibliography{refs_corpus,refs_background}
+\end{document}

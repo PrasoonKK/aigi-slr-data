@@ -1,0 +1,26 @@
+.DS_Store
+__pycache__/
+.venv/
+~$*.xlsx
+~$*.docx
+*.zip
+
+# LaTeX build files
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# generated/ is rebuilt by scripts/gen_from_workbook.py; only what the supplement needs is tracked
+generated/*
+!generated/stats.tex
+!generated/study_table.tex
+!generated/results_table.tex
+!generated/ft_excluded.tex
+!generated/not_retrieved.tex
+!generated/search_S01.txt
+!generated/search_S02.txt

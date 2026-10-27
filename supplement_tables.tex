@@ -1,0 +1,83 @@
+%% =====================================================================
+%% Supplementary material body (included by supplement.tex). Every row is generated from the workbook by
+%% scripts/gen_from_workbook.py (generated/*.tex); do not edit by hand.
+%% =====================================================================
+\section{Study-Level Coding of the Included Studies}
+\label{app:coding}
+Task: Det = detection, Attr = attribution, Loc = localization, Bench = benchmark, Rob = robustness or attack study. Evidence (primary family, Axis B): SPA spatial, FRQ frequency, NOI noise/residual, SRC source/fingerprint, SEM semantic, REC reconstruction, GEO geometry/physical, HYB hybrid. Generators: G = GAN only, D = diffusion only, G+D = both, Multi = multi-family (more than the GAN and diffusion pair). Generalization tests (Axis D): U unseen generator, F cross-family, Ds cross-dataset, Dm cross-domain, O open set, C continual. Robustness (Axis E): R any test, S social-network processing, A adversarial. \cmark{} = tested; -- = not tested; ? = unclear from the report. Str = strength of generalization evidence (VH very high, H high, M moderate, L low). QA = total appraisal score over QA1--QA8 (maximum 8); QA1, QA3 and QA8 were scored with AI assistance and validated by the authors (see the Quality Appraisal subsection of the main paper).
+
+{\scriptsize
+\setlength{\tabcolsep}{3pt}
+\begin{longtable}{l c p{5.6cm} l l l c c c c c c c c c c c}
+\caption{Coding of the included studies}\label{tab:coding-all}\\
+\toprule
+Study & Year & Short title & Task & Evid. & Gen. & U & F & Ds & Dm & O & C & R & S & A & Str & QA \\
+\midrule
+\endfirsthead
+\toprule
+Study & Year & Short title & Task & Evid. & Gen. & U & F & Ds & Dm & O & C & R & S & A & Str & QA \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\input{generated/study_table}
+\end{longtable}
+}
+
+\section{Reported Performance Values}
+\label{app:results}
+Every performance value used in the Reported Performance Under Shift subsection of the main paper, as transcribed into workbook sheet~32 (\NresValues values from \NresStudies studies). Setting: in-domain, ood (out-of-distribution), open-set, robustness. Value in percent (values reported on a 0--1 scale are multiplied by 100). Stat: \emph{mean} if the study reports an average over several targets, otherwise \emph{value}. The workbook stores, for each row, the verbatim fragment of the extraction record from which the value was read. The authors validated every value.
+
+{\scriptsize
+\setlength{\tabcolsep}{4pt}
+\begin{longtable}{l l l p{5.2cm} l r l}
+\caption{Transcribed performance values}\label{tab:results-all}\\
+\toprule
+Study & Setting & Shift & Target & Metric & Value & Stat \\
+\midrule
+\endfirsthead
+\toprule
+Study & Setting & Shift & Target & Metric & Value & Stat \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\input{generated/results_table}
+\end{longtable}
+}
+
+\section{Full-Text Exclusions and Reports Not Retrieved}
+\label{app:excluded}
+Table~S3 lists the \NexclFT reports excluded at full-text assessment, with the exclusion code defined in the Review Methodology section of the main paper. Table~S4 lists the \Nnotretrieved reports that were sought but could not be retrieved through institutional access.
+
+{\small
+\begin{longtable}{l p{12.5cm} l}
+\caption{Reports excluded at full text}\label{tab:ftex}\\
+\toprule
+Record & Title & Code \\
+\midrule
+\endfirsthead
+\toprule
+Record & Title & Code \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\input{generated/ft_excluded}
+\end{longtable}
+
+\begin{longtable}{l p{14.2cm} l}
+\caption{Reports sought but not retrieved}\label{tab:notret}\\
+\toprule
+Record & Title & Year \\
+\midrule
+\endfirsthead
+\toprule
+Record & Title & Year \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\input{generated/not_retrieved}
+\end{longtable}
+}
