@@ -1,0 +1,22 @@
+Copyright (c) 2026 Prasoon Kumar Kashyap and Aryan Jha
+
+This repository is licensed under two licences, by type of content.
+
+1. Code: the script in scripts/gen_from_workbook.py (and the LaTeX files
+   supplement.tex and supplement_tables.tex) are licensed under the MIT License.
+   Full text: LICENSE-MIT.txt
+
+2. Data and documents: everything else, including the workbook
+   ("AIGI Workbook.xlsx"), the protocol, the supplement PDF, the generated tables
+   and the bibliographies, is licensed under the Creative Commons Attribution 4.0
+   International licence (CC BY 4.0).
+   Full text: LICENSE-CC-BY-4.0.txt
+   Summary: https://creativecommons.org/licenses/by/4.0/
+
+Third-party material: the workbook quotes short fragments of, and gives
+bibliographic details for, published studies that remain the property of their
+authors and publishers. The full texts and the publisher abstracts are not
+included.
+
+When reusing this material, please cite the accompanying paper (citation to be
+added once the paper is published).
