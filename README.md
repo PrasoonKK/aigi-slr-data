@@ -34,7 +34,7 @@ The review follows PRISMA 2020. It covers peer-reviewed journal articles on AI-g
 **Not included:** the full texts of the studies (publisher copyright), and the abstracts of the Scopus records. The `Abstract` column in `04_Master_Records` is intentionally empty; re-export it from Scopus with the search strings in `01_Search_Log` if needed. Working notes used while planning the review are also left out.
 
 ## Validation status and use of AI
-Large-language-model tools were used to propose screening decisions and pre-fill extraction fields (Gemini, Google), and to score the quality-appraisal items QA1, QA3 and QA8, transcribe reported values, write the analysis code and prepare the manuscript (Claude, Anthropic, accessed through Claude Code). Every AI proposal was recorded in the workbook with a validation status, and the authors validated all of them (statuses updated on 27 October 2026, see `CHANGELOG.md`). Decisions were not made independently by two reviewers, so no inter-rater agreement is reported.
+Large-language-model tools were used to propose screening decisions and pre-fill extraction fields (Gemini Pro, Google; exact version not recorded), and to score the quality-appraisal items QA1, QA3 and QA8, transcribe reported values, write the analysis code and prepare the manuscript (Claude, Anthropic, accessed through Claude Code). Every AI proposal was recorded in the workbook with a validation status, and the authors validated all of them (statuses updated on 27 October 2026, see `CHANGELOG.md`). Decisions were not made independently by two reviewers, so no inter-rater agreement is reported.
 
 ## Reproducing the numbers
 Requires Python 3 and `openpyxl`.
