@@ -20,3 +20,6 @@ Removed from the workbook for this release: the publisher-owned `Abstract` colum
 
 ## 28 October 2026
 Pre-release clean-up of the public package: a template placeholder in `02_Search Development` replaced by "Not recorded"; the reviewer labels in sheets `06` and `10` now read "validated by authors" (they still said validation was required); workbook file metadata (last-modified-by) replaced with the authors' names; `supplement.pdf` is now Online Resource 1 with journal and author details; `CITATION.cff` added.
+
+## v1.0.1 (28 October 2026)
+The workbook, protocol and supplement PDF are now stored as regular files instead of Git LFS pointers, so release archives (GitHub zip, Zenodo) contain the actual data. v1.0.0 archived only pointer files; use v1.0.1 or later.
