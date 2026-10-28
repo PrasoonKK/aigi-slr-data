@@ -14,7 +14,8 @@ The review follows PRISMA 2020. It covers peer-reviewed journal articles on AI-g
 | `supplement.tex`, `supplement_tables.tex`, `supplement.pdf` | Online Resource 1 (supplement to the article): study-level coding of the 99 included studies (Table S1), every transcribed performance value (S2), full-text exclusions (S3), reports not retrieved (S4), and the verbatim Scopus search strings. |
 | `generated/` | The script outputs the supplement needs (tracked); the rest is rebuilt on demand. |
 | `refs_corpus.bib`, `refs_background.bib` | Bibliographies for the supplement (corpus entries are generated from the workbook). |
-| `CHANGELOG.md` | Edits made to the workbook on 27 October 2026. |
+| `CHANGELOG.md` | Edits made to the workbook before the public release (27–28 October 2026). |
+| `CITATION.cff` | Citation metadata (to be completed with the article reference on publication). |
 
 ## The workbook
 | Sheet | Content |
