@@ -12,6 +12,9 @@ authors:
     email: aryanjha.delhi@gmail.com
     affiliation: "Manipal Institute of Technology Bengaluru, Manipal Academy of Higher Education"
 license: CC-BY-4.0
+version: v1.0.1
+date-released: 2026-10-28
+doi: 10.5281/zenodo.23720598
 repository-code: "https://github.com/PrasoonKK/aigi-slr-data"
 keywords:
   - systematic literature review

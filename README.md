@@ -48,6 +48,8 @@ This rewrites `generated/` and `refs_corpus.bib`. To rebuild the supplement: `te
 The workbook formulas (sheets `14`, `30`, `31`) recalculate when the file is opened in Excel.
 
 ## Citation and licence
-Citation: to be added once the paper is published.
+Archived release: version v1.0.1, DOI [10.5281/zenodo.23720598](https://doi.org/10.5281/zenodo.23720598) (the DOI [10.5281/zenodo.23720518](https://doi.org/10.5281/zenodo.23720518) always resolves to the latest version; v1.0.0 archived only placeholder files for the data, use v1.0.1 or later).
+
+Citation of the article: to be added once the paper is published.
 
 Licence: the script and LaTeX files are under the **MIT License**; the data and documents (workbook, protocol, supplement, generated tables) are under **CC BY 4.0**. See `LICENSE`, `LICENSE-MIT.txt` and `LICENSE-CC-BY-4.0.txt`.
