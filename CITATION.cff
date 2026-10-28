@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the article below (details to be completed on publication)."
+title: "Replication package: AI-generated image detection, a systematic literature review"
+type: dataset
+authors:
+  - family-names: Kashyap
+    given-names: Prasoon Kumar
+    email: prasoonkkashyap@gmail.com
+    affiliation: "Manipal Institute of Technology Bengaluru, Manipal Academy of Higher Education"
+  - family-names: Jha
+    given-names: Aryan
+    email: aryanjha.delhi@gmail.com
+    affiliation: "Manipal Institute of Technology Bengaluru, Manipal Academy of Higher Education"
+license: CC-BY-4.0
+repository-code: "https://github.com/PrasoonKK/aigi-slr-data"
+keywords:
+  - systematic literature review
+  - AI-generated image detection
+  - generalization
+  - PRISMA

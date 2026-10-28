@@ -17,3 +17,6 @@ Edits made to the authors' full workbook before this public release.
 
 ## Public release
 Removed from the workbook for this release: the publisher-owned `Abstract` column of `04_Master_Records` (blanked), and the sheets holding working notes and intermediate synthesis. The numbers in the paper regenerate identically from this file.
+
+## 28 October 2026
+Pre-release clean-up of the public package: a template placeholder in `02_Search Development` replaced by "Not recorded"; the reviewer labels in sheets `06` and `10` now read "validated by authors" (they still said validation was required); workbook file metadata (last-modified-by) replaced with the authors' names; `supplement.pdf` is now Online Resource 1 with journal and author details; `CITATION.cff` added.
