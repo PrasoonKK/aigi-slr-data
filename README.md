@@ -48,7 +48,7 @@ This rewrites `generated/` and `refs_corpus.bib`. To rebuild the supplement: `te
 The workbook formulas (sheets `14`, `30`, `31`) recalculate when the file is opened in Excel.
 
 ## Citation and licence
-Archived release: version v1.0.1, DOI [10.5281/zenodo.23720598](https://doi.org/10.5281/zenodo.23720598) (the DOI [10.5281/zenodo.23720518](https://doi.org/10.5281/zenodo.23720518) always resolves to the latest version; v1.0.0 archived only placeholder files for the data, use v1.0.1 or later).
+Archived release: version v1.0.2, DOI [10.5281/zenodo.23856384](https://doi.org/10.5281/zenodo.23856384) (the DOI [10.5281/zenodo.23720518](https://doi.org/10.5281/zenodo.23720518) always resolves to the latest version). v1.0.1 (10.5281/zenodo.23720598) has the same data but two authors; v1.0.0 archived only placeholder files for the data.
 
 Citation of the article: to be added once the paper is published.
 
