@@ -179,7 +179,7 @@ for f in fams:
 S("Ncode", sum(Y(r, "Code_Available") for r in AR)); S("Pctcode", pct(stats["Ncode"]))
 S("Ndata", sum(Y(r, "Dataset_Available") for r in AR)); S("Pctdata", pct(stats["Ndata"]))
 S("Nablation", sum(Y(r, "Ablation_Study") for r in AR)); S("Pctablation", pct(stats["Nablation"]))
-# QA distributions (QA1, QA3, QA8 are AI-scored and pending author validation; see sheet 31 column M)
+# QA distributions (QA1, QA3, QA8 are the judgment-based items; see sheet 31 column M)
 QAK = ["QA1", "QA2", "QA3", "QA4", "QA5", "QA6", "QA7", "QA8"]
 for k in QAK:
     assert all(isinstance(QA[r["Record_ID"]][k], (int, float)) for r in AR), k + " not fully scored"

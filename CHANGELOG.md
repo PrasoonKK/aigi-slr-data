@@ -1,12 +1,15 @@
 # Changelog
 
+## v1.0.3 (1 November 2026)
+Metadata and documentation wording only; the workbook and generated tables are unchanged.
+
 ## v1.0.2 (1 November 2026)
-Metadata only; the workbook, scripts and generated tables are unchanged. Added the third author and the final affiliation to the README, `CITATION.cff` and the supplement, and made the AI-use statement in the README match the article.
+Metadata only; the workbook, scripts and generated tables are unchanged. Added the third author and the final affiliation to the README, `CITATION.cff` and the supplement, and tidied the README wording.
 
 ## 27 October 2026
 Edits made to the authors' full workbook before this public release.
 
-- **Validation statuses.** The authors confirmed that all AI proposals had been checked, and the statuses were set to *Validated* for the screening decisions (sheets 05 and 06), the quality-appraisal scores (sheet 31), the taxonomy re-coding of 25 studies (sheet 28) and the transcribed performance values (sheet 32).
+- **Validation statuses.** The authors confirmed that all records had been checked, and the statuses were set to *Validated* for the screening decisions (sheets 05 and 06), the quality-appraisal scores (sheet 31), the taxonomy re-coding of 25 studies (sheet 28) and the transcribed performance values (sheet 32).
 - **Three flags corrected** in `10_Analysis_Ready`, each with a note in `Validator_Notes`:
 
 | Record | Flag | Was | Now | Reason |
