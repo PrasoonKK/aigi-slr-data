@@ -6,11 +6,15 @@ authors:
   - family-names: Kashyap
     given-names: Prasoon Kumar
     email: prasoonkkashyap@gmail.com
-    affiliation: "Manipal Institute of Technology Bengaluru, Manipal Academy of Higher Education"
+    affiliation: "Manipal Institute of Technology Bengaluru, Manipal Academy of Higher Education, Manipal, India"
   - family-names: Jha
     given-names: Aryan
     email: aryanjha.delhi@gmail.com
-    affiliation: "Manipal Institute of Technology Bengaluru, Manipal Academy of Higher Education"
+    affiliation: "Manipal Institute of Technology Bengaluru, Manipal Academy of Higher Education, Manipal, India"
+  - family-names: Naveen
+    given-names: Soumyalatha
+    email: soumyalatha.naveen@manipal.edu
+    affiliation: "Manipal Institute of Technology Bengaluru, Manipal Academy of Higher Education, Manipal, India"
 license: CC-BY-4.0
 version: v1.0.1
 date-released: 2026-10-28
