@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.2 (1 November 2026)
+Metadata only; the workbook, scripts and generated tables are unchanged. Added the third author and the final affiliation to the README, `CITATION.cff` and the supplement, and made the AI-use statement in the README match the article.
+
 ## 27 October 2026
 Edits made to the authors' full workbook before this public release.
 

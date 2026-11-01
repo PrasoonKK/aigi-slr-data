@@ -16,8 +16,8 @@ authors:
     email: soumyalatha.naveen@manipal.edu
     affiliation: "Manipal Institute of Technology Bengaluru, Manipal Academy of Higher Education, Manipal, India"
 license: CC-BY-4.0
-version: v1.0.1
-date-released: 2026-10-28
+version: v1.0.2
+date-released: 2026-11-01
 doi: 10.5281/zenodo.23720598
 repository-code: "https://github.com/PrasoonKK/aigi-slr-data"
 keywords:
